@@ -1,3 +1,8 @@
 {
-    "name": "dd"
+    "name": "dd",
+    "age": 18,
+    "extra": {
+        "sex": "male",
+        "school": ["a1", "a2"]
+    }
 }
