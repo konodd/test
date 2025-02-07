@@ -4,5 +4,6 @@
     "extra": {
         "sex": "male",
         "school": ["a1", "a2"]
-    }
+    },
+    "arr2": [["dd11", "dd12"], ["gg21", "gg22"]]
 }
